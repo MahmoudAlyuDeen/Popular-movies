@@ -35,6 +35,9 @@ Popular movies app is the graduation project in Udacity's Android course.
 ![](/screenshots/movies_person_details_full_phone_portrait_framed.png)
 ![](/screenshots/movies_popular_tablet_landscape_framed.png)
 
-# Instructions
+# Instructions to build
 To be able to properly build and test the project, a new API key must be requested from TMDb.
 API key should then be updated in ../res/values/strings.xml
+
+# Testing
+A fully functional APK is included under ./signed APK/ for testing purposes.
