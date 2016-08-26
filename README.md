@@ -1,5 +1,6 @@
 # Popular-movies
 Popular movies app is the graduation project in Udacity's Android course.
+
 # Features
 - Fetches and displays movies from TMDb API, represented by their posters.
 - Displayes details about movies (ratings, release date, etc..)
@@ -12,6 +13,7 @@ Popular movies app is the graduation project in Udacity's Android course.
 - Fully optimized for tablets with master-detail layout.
 - Fully functional while the device is offline.
 - Adheres to Material Design specs.
+
 # Libraries
 * [Realm] 
 * [Retrofit]
