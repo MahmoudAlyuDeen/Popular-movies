@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_types_array">
+        <item>Popular movies</item>
+        <item>Upcoming movies</item>
+        <item>Top rated movies</item>
+        <item>My favourite movies</item>
+    </string-array>
+</resources>

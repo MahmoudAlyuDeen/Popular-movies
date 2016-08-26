@@ -1,0 +1,10 @@
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/movie_poster_known_for_image_view"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/cast_member_item_height"
+    android:layout_marginLeft="@dimen/poster_horizontal_padding"
+    android:layout_marginRight="@dimen/poster_horizontal_padding"
+    android:adjustViewBounds="true"
+    android:src="@drawable/poster_placeholder_smaller"
+    tools:ignore="ContentDescription" />

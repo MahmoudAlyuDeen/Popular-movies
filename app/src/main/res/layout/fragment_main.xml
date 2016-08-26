@@ -1,0 +1,18 @@
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/main_swipe_refresh"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/movies_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:overScrollMode="always"
+        android:paddingLeft="@dimen/poster_horizontal_padding"
+        android:paddingRight="@dimen/poster_horizontal_padding"
+        android:paddingTop="@dimen/poster_vertical_padding"
+        tools:context="com.afterapps.movies.fragments.FragmentMain" />
+
+</android.support.v4.widget.SwipeRefreshLayout>
