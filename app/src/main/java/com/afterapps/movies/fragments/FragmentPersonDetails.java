@@ -37,7 +37,8 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-@SuppressLint("ValidFragment")
+//Credits:
+//http://code.tutsplus.com/articles/how-to-use-bottom-sheets-with-the-design-support-library--cms-26031
 public class FragmentPersonDetails extends BottomSheetDialogFragment {
 
     RetrofitClients.PersonDetailsClient personDetailsClient;
